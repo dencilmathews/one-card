@@ -1,0 +1,239 @@
+body{
+    margin: 0;
+}
+
+.container{
+    padding-left: 216px;
+    display: flex;
+    height: 50px;
+    font-family: manrope,sans-serif;
+}
+
+
+.navtable{
+    margin-left: 400px;
+    display:flex;
+    color: black;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+
+ul{
+    text-align: center;
+        display:flex;
+        list-style-type: none;
+        text-align: center;
+        padding: 10px;
+        justify-content: space-between;
+        width: 600px;
+        font-weight: 800;
+        color: #051219;
+}
+
+a{
+    text-decoration: none;
+}
+
+.mainbody1{
+    height:650px;
+    background-color:white;
+    display: flex;
+}
+
+.navtext{
+    color: black;
+
+}
+.left{
+    display: block;
+    padding-left: 350px;
+    padding-top: 100px;
+
+}
+#img1{
+    width: 355px;
+    height: 100px;
+
+}
+#img2{
+    width: 200px;
+    height: 70px;
+}
+.video{
+    width: 500px;
+    height: 500px;
+}
+.right{
+    padding-top: 70px;
+
+}
+
+.body2{
+    text-align: center;
+    display: block;
+    background-color: #000000;
+    color: white;
+    height: 400px;
+    padding-top:80px;
+}
+
+#img3
+{
+    height: 80px;
+    width: 60px;
+    display: block;
+    float: right;
+    margin-top: 100px;
+}
+.text{
+  margin-top: 210px;
+}
+h1{
+    font-size: xx-large;
+}
+.ashbody{
+    display: flex;
+    height: 600px;
+    background-color: #F2F2F2;
+}
+.textitems{
+    margin: 80px;
+}
+.whitebody{
+    display: flex;
+    height: 600px;
+    background-color: white;
+}
+
+#img4{
+    float: right;
+}
+.whiteRight{
+    margin-top: 140px;
+
+}
+.insidetext{
+    margin-top: 90px;
+}
+.blog{
+    height: 450px;
+}
+.blogup{
+    display: block;
+    height: 80px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.cardcontainer{
+    height: 450px;
+    display: flex;
+    margin-left: 331px;
+}
+.card{
+    width: 300px;
+    height: 450px;
+
+}
+.card:hover{
+    cursor: pointer;
+}
+#blueblog{
+    color:#0093F7 ;
+}
+.blogImg{
+    width: 218px;
+    height: 137px;
+}
+.blogdown{
+    display: block;
+    padding-left: auto;
+    padding-right: auto;
+}
+.banking{
+    background-color: #F2F2F2;
+    height: 300px;
+    padding-top: 44px;
+}
+.animation{
+    width: 200px;
+    height: 150px;
+}
+
+.buttonimage{
+    width: 150px;
+    height: 70px;
+}
+.investcontainer{
+    display:flex;
+    margin-left: 467px;
+}
+.withlove{
+    background-color:#0C161B;
+    color: white;
+}
+#logowhite{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    padding-top: 30px;
+}
+#love{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:250px;
+    margin-top: 20px;
+}
+#lh1{
+    margin-left: 647px;
+}
+#lp1{
+     margin-left: 607px;
+    }
+#lp2{
+    margin-left: 631px;
+}
+#lh3{
+    margin-left: 706px;
+}
+#imgapply{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+}
+.social{
+    margin-left: 656px;
+}
+.footer{
+    background-color: #0C161B;
+    color:#0093F7 ;
+    height: 400px;
+
+}
+.listHeading{
+    color: white;
+}
+.z{
+    color: #0093F7;
+}
+.listcontainer{
+    display: flex;
+    margin-left: 300px;
+}
+.list{
+    margin-left: 110px;
+    margin-top: 50px;
+}
+.copyright{
+    color: white;
+    background-color:#0C161B;
+    padding-left: 580px;
+
+}
